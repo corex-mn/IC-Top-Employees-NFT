@@ -1,0 +1,12 @@
+{
+  "deployment_info": {
+    "mainnet": {
+      "address": "0x86d017cbf1b9f0203ac4157338f48772c5bac6ec",
+      "owner": "0x6537c69709A418c9B98870c56aFa782F9309EC2b"
+    },
+    "testnet": {
+      "address": "0xdf161d5eb534100e6fbc36f9b592b8a69f8e6acd",
+      "owner": "0x259164d9D26a1bcC8aE3B721aC23F0e2A5563D07"
+    }
+  }
+}
